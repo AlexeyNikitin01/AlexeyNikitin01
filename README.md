@@ -1,6 +1,6 @@
-# Приветсвую вас в моем уголке!:) Меня зовут Алексей.
+# Привет. Я Алексей.
 
-## Новый день - новый код. Нужно жить так, чтобы после тебя было приятно читать код.
+## func doProgramming() bool {return true}
 ![VakAE](https://github.com/user-attachments/assets/bf5a49f6-cd3e-4de0-8797-dd4e96a4f079)
 
 ## Golang Backend Developer
