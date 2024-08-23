@@ -1,6 +1,6 @@
 # Привет. Я Алексей.
 
-## func doProgramming() bool {return true}
+## func writeCode() bool {return true}
 ![VakAE](https://github.com/user-attachments/assets/bf5a49f6-cd3e-4de0-8797-dd4e96a4f079)
 
 ## Golang Backend Developer
