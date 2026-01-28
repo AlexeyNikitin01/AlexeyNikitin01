@@ -1,13 +1,13 @@
 # Golang Developer
 # Никитин Алексей
 
-## func writeCode() bool {return true}
-
-![VakAE](https://images.steamusercontent.com/ugc/2015977670103146290/B1DCD675B2C8E52F067CCDAE35C792FC4221F59E/)
-
 **Контакты:** +7 (901) 059-04-25 (Telegram, WhatsApp, Viber)  
 **Email:** lyosha280761@gmail.com  
 **Telegram:** @Alexey_Nikitin_001  
+
+## func writeCode() bool {return true}
+
+![VakAE](https://images.steamusercontent.com/ugc/2015977670103146290/B1DCD675B2C8E52F067CCDAE35C792FC4221F59E/)
 
 ---
 
