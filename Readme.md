@@ -7,7 +7,7 @@
 
 ## func writeCode() bool {return true}
 
-![VakAE](https://images.steamusercontent.com/ugc/2015977670103146290/B1DCD675B2C8E52F067CCDAE35C792FC4221F59E/)
+![VakAE](https://images.steamusercontent.com/ugc/2015977670103146290/B1DCD675B2C8E52F067CCDAE35C792FC4221F59E/){:width="500px" height="300px"}
 
 ---
 
