@@ -1,7 +1,7 @@
 # Golang Developer
 # Никитин Алексей
 
-**Контакты:** +7 (901) 059-04-25 (Telegram, WhatsApp, Viber)  
+**Контакты:** +7 (901) 059-04-25
 **Email:** lyosha280761@gmail.com  
 **Telegram:** @Alexey_Nikitin_001  
 
