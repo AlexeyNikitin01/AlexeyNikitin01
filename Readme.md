@@ -8,7 +8,7 @@
 ## func writeCode() bool {return true}
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/778a0e752ecdaae23046e12b46313d78682e731135aecc8294e3c403eaabdefd/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f626c61636b2d6361742d616767726573736976652d747970696e672d766a68746176367469776278316132632e676966" alt="VakAE" />
+  <img src="https://tse2.explicit.bing.net/th?id=OIP.KUuKfT5QlrEs9gIMKwwKZQHaHa&pid=Api&P=0&w=300&h=300" alt="VakAE" />
 </div>
 
 ---
