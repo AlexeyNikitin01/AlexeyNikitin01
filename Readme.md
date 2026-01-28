@@ -1,13 +1,9 @@
 # Golang Developer
 # Никитин Алексей
 
-Телефон: +7 (901) 059-04-25 (Telegram, WhatsApp)
-Email: lyosha-2001@mail.ru
-Telegram: @Alexey_Nikitin_001
-Местоположение: Москва, м. Беломорская
-
 ## func writeCode() bool {return true}
-![VakAE](https://github.com/user-attachments/assets/bf5a49f6-cd3e-4de0-8797-dd4e96a4f079)
+
+![VakAE](https://images.steamusercontent.com/ugc/2015977670103146290/B1DCD675B2C8E52F067CCDAE35C792FC4221F59E/)
 
 **Контакты:** +7 (901) 059-04-25 (Telegram, WhatsApp, Viber)  
 **Email:** lyosha280761@gmail.com  
