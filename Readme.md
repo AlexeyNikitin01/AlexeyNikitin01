@@ -5,7 +5,9 @@
 **Email:** lyosha280761@gmail.com  
 **Telegram:** @Alexey_Nikitin_001  
 
-## func writeCode() bool {return true}
+func (d *Developer) Work() bool {
+  return d.writeCode()
+}
 
 <div align="center">
   <img src="https://tse2.explicit.bing.net/th?id=OIP.KUuKfT5QlrEs9gIMKwwKZQHaHa&pid=Api&P=0&w=300&h=300" alt="VakAE" />
